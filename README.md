@@ -1,0 +1,1 @@
+A repository to hold my solution on the Google's Code Jam contest.
